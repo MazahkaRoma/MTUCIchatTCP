@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRealisation", "MTUCIchatTCP\ChatRealisation.csproj", "{7FCE7E8C-5A94-4A47-B408-5301E38C16AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F5EAD0CD-67B6-4041-A2F6-D26F5078B865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{34EB5794-BFED-4137-99F3-A17A891AE716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCE7E8C-5A94-4A47-B408-5301E38C16AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCE7E8C-5A94-4A47-B408-5301E38C16AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCE7E8C-5A94-4A47-B408-5301E38C16AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCE7E8C-5A94-4A47-B408-5301E38C16AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EAD0CD-67B6-4041-A2F6-D26F5078B865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EAD0CD-67B6-4041-A2F6-D26F5078B865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EAD0CD-67B6-4041-A2F6-D26F5078B865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EAD0CD-67B6-4041-A2F6-D26F5078B865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EB5794-BFED-4137-99F3-A17A891AE716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EB5794-BFED-4137-99F3-A17A891AE716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EB5794-BFED-4137-99F3-A17A891AE716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EB5794-BFED-4137-99F3-A17A891AE716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603BD6B4-9485-4EE5-9909-EC22240617DF}
+	EndGlobalSection
+EndGlobal
